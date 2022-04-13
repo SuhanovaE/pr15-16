@@ -1,0 +1,9 @@
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Суханова\ПР15-16\PR15-16(2)\obj\Debug\PR15-16(2).csproj.AssemblyReference.cache
+C:\Users\Студент\Desktop\ИСП.20А\ОАП\Суханова\ПР15-16\PR15-16(2)\obj\Debug\PR15-16(2).csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\ПР15-16\PR15-16(2)\bin\Debug\PR15-16(2).exe.config
+C:\Users\ekate\OneDrive\Рабочий стол\ПР15-16\PR15-16(2)\bin\Debug\PR15-16(2).exe
+C:\Users\ekate\OneDrive\Рабочий стол\ПР15-16\PR15-16(2)\bin\Debug\PR15-16(2).pdb
+C:\Users\ekate\OneDrive\Рабочий стол\ПР15-16\PR15-16(2)\obj\Debug\PR15-16(2).csproj.AssemblyReference.cache
+C:\Users\ekate\OneDrive\Рабочий стол\ПР15-16\PR15-16(2)\obj\Debug\PR15-16(2).csproj.CoreCompileInputs.cache
+C:\Users\ekate\OneDrive\Рабочий стол\ПР15-16\PR15-16(2)\obj\Debug\PR15-16(2).exe
+C:\Users\ekate\OneDrive\Рабочий стол\ПР15-16\PR15-16(2)\obj\Debug\PR15-16(2).pdb
